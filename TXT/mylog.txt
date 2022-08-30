@@ -1,3 +1,8 @@
 # Log Format
 # ZCZC Week# MINUTES LogCode Description
 # Log Codes: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 100 L02 Tuesday Synchronous Zoom Meeting
+ZCZC W00 10 L03 Setting up GitHub Repository os222
+ZCZC W00 70 L04 Tinkering with GitHub Pages and trying to create HTML index file as source
+ZCZC W00 70 L06 Figuring out how to setup index.html on GitHub Pages by GSGS
+ZCZC W00 80 L11 Progress on Assignment 1 up to setting up GitHub Pages
