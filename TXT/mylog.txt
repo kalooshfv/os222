@@ -1,0 +1,3 @@
+# Log Format
+# ZCZC Week# MINUTES LogCode Description
+# Log Codes: https://osp4diss.vlsm.org/ETC/logCodes.txt
