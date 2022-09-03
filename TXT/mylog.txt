@@ -10,3 +10,5 @@ ZCZC W00 80 L06 Scribing and skimming ch1-ch2 of Silberschatz slides
 ZCZC W00 15 L06 Trying midterm questions 00 Overview 1
 ZCZC W00 5 L32 Watching video recommendations from previous OS students
 ZCZC W00 2 L03 Editing index.html file to contain name, class, and NPM
+ZCZC W00 30 L06 Finishing up ch01 and ch02 notes
+ZCZC W00 60 L06 Scribing and skimming ch18
