@@ -13,3 +13,4 @@ ZCZC W00 5 L32 Watching video recommendations from previous OS students
 ZCZC W00 2 L03 Editing index.html file to contain name, class, and NPM
 ZCZC W00 30 L06 Finishing up ch01 and ch02 notes
 ZCZC W00 60 L06 Scribing and skimming ch18
+ZCZC W01 3 L05 Quiz 1
