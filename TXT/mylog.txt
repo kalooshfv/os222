@@ -14,3 +14,7 @@ ZCZC W00 2 L03 Editing index.html file to contain name, class, and NPM
 ZCZC W00 30 L06 Finishing up ch01 and ch02 notes
 ZCZC W00 60 L06 Scribing and skimming ch18
 ZCZC W01 3 L05 Quiz 1
+ZCZC W01 100 L02 Tuesday Synchronous Zoom Meeting
+ZCZC W01 100 L02 Thursday Synchronous Zoom Meeting
+ZCZC W01 30 L05 Studying for Quiz by reading Scripting PPT
+ZCZC W01 3 L05 Quiz 2
