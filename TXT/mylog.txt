@@ -18,3 +18,4 @@ ZCZC W01 100 L02 Tuesday Synchronous Zoom Meeting
 ZCZC W01 100 L02 Thursday Synchronous Zoom Meeting
 ZCZC W01 30 L05 Studying for Quiz by reading Scripting PPT
 ZCZC W01 3 L05 Quiz 2
+ZCZC W01 50 L11 Assignment 1, stuck on Graphical Install
