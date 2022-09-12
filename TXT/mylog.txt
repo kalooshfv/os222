@@ -22,3 +22,4 @@ ZCZC W01 50 L11 Assignment 1, stuck on Graphical Install
 ZCZC W01 30 L11 Assignment 1, stuck on SSH key
 ZCZC W01 3 L11 Assignment 1, links.md
 ZCZC W01 40 L11 Assignment 1, still stuck on SSH key
+ZCZC W01 30 L11 Assignment 1 finished
