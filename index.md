@@ -6,4 +6,6 @@
 [GitHub Repo](https://github.com/kalooshfv/os222) -- 
 [Links](https://kalooshfv.github.io/os222/LINKS/)
 
-THIS IS MY GITHUB PAGE
+Name: Kaloosh Falito Verrell
+Class: International
+NPM: 2106720916
