@@ -6,6 +6,6 @@
 [GitHub Repo](https://github.com/kalooshfv/os222) -- 
 [Links](https://kalooshfv.github.io/os222/LINKS/)
 
-Name: Kaloosh Falito Verrell
-Class: International
+Name: Kaloosh Falito Verrell \n
+Class: International \n
 NPM: 2106720916
