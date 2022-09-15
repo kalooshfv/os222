@@ -18,7 +18,7 @@ REC2="60914D29C01C81F1"
 REC1="63FB12B215403B20"
 # WEEKURL="http://localhost:4000/WEEK/WEEK.txt"
 WEEKURL="https://os.vlsm.org/WEEK/WEEK.txt"
-FILES="my*.asc my*.txt my*.sh"
+FILES="myW02.tar.bz2.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 RESDIR="$HOME/RESULT/"
 usage()  { echo "Usage: $0 [-w <WEEK>]" 1>&2; exit 1; }
