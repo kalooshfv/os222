@@ -9,9 +9,5 @@
 Name: Kaloosh Falito Verrell <br>
 Class: International <br>
 NPM: 2106720916
-
-<br>
 <hr>
-<br><br>
-This is the way!
 
