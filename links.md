@@ -12,4 +12,9 @@ Short tutorial on basics of Virtualization using VirtualBox. While read briefly,
 2. VirtualBox Kernel Panic Fix: https://www.youtube.com/watch?v=CJQyfb4ffKw <br>
 Encountered an error regarding Kernel Panic; fix in comments. Helped in executing Assignment 1.
 3. Virtualization Introduction: https://www.baeldung.com/cs/virtualization-intro <br>
-Virtualization introduction in general. Very introductory and structured well.
+Virtualization introduction in general. Very introductory and structured well. <br>
+4. Difference between Public and Private Key: https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/ <br>
+Explains the difference very clearly in the form of a table. <br>
+5. Creating Keys: https://docs.oracle.com/cd/E19683-01/806-4078/6jd6cjru7/index.html <br>
+Apart from cbkadal's tutorial, this link also provides instructions on creating public/private keys using a secure shell. <br>
+
