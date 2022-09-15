@@ -9,3 +9,14 @@
 Name: Kaloosh Falito Verrell <br>
 Class: International <br>
 NPM: 2106720916
+
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+This is the way!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
