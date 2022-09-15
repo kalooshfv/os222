@@ -24,6 +24,6 @@ ZCZC W01 3 L11 Assignment 1, links.md
 ZCZC W01 40 L11 Assignment 1, still stuck on SSH key
 ZCZC W01 30 L11 Assignment 1 finished
 ZCZC W02 40 L12 Assignment 2, stuck on passphrase
-ZCZC W02 50 L12 Assignment 2, postponed
+ZCZC W02 50 L12 Assignment 2, postponed to next day
 ZCZC W02 5 L32 Finding new links from other students' links
 ZCZC W00 60 L06 Reading slides, trying demos
