@@ -17,4 +17,6 @@ Virtualization introduction in general. Very introductory and structured well. <
 Explains the difference very clearly in the form of a table. <br>
 5. Creating Keys: https://docs.oracle.com/cd/E19683-01/806-4078/6jd6cjru7/index.html <br>
 Apart from cbkadal's tutorial, this link also provides instructions on creating public/private keys using a secure shell. <br>
+6. C Programming Tutorial for Beginners: https://www.youtube.com/watch?v=KJgsSFOSQv0 <br>
+Long 3-hour introduction to C. Very complete, from basics to moderately advanced.
 
