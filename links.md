@@ -18,5 +18,11 @@ Explains the difference very clearly in the form of a table. <br>
 5. Creating Keys: https://docs.oracle.com/cd/E19683-01/806-4078/6jd6cjru7/index.html <br>
 Apart from cbkadal's tutorial, this link also provides instructions on creating public/private keys using a secure shell. <br>
 6. C Programming Tutorial for Beginners: https://www.youtube.com/watch?v=KJgsSFOSQv0 <br>
-Long 3-hour introduction to C. Very complete, from basics to moderately advanced.
+Long 3-hour introduction to C. Very complete, from basics to moderately advanced. <br>
+7. Introduction to File Systems: https://www.ufsexplorer.com/articles/file-systems-basics/ <br>
+Relatively short yet detailed summary of file systems in general. Defines what a file system is and gives examples (in context of Windows). <br>
+8. What is the Best File System?: https://www.quora.com/What-is-the-best-filesystem-in-your-opinion <br>
+People's opinions on what is the best file system for general use. Satisfies curiosity. <br>
+9. File Systems Overview: https://kb.wisc.edu/helpdesk/page.php?id=11300 <br>
+Details about the properties of different file systems. Short and sweet bullet points.
 
