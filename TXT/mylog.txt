@@ -33,3 +33,5 @@ ZCZC W02 5 L02 Asking in forum for help in assignment 2
 ZCZC W02 5 L02 Finishing up Assignment 2
 ZCZC W03 100 L02 Tuesday Synchronous Zoom Meeting
 ZCZC W03 120 L13 Assignment 3 until first commit
+ZCZC W03 100 L02 Thursday Synchonous Class
+ZCZC W03 15 L05 Studying for Week 03 Quiz 02
