@@ -36,3 +36,5 @@ ZCZC W03 120 L13 Assignment 3 until first commit
 ZCZC W03 100 L02 Thursday Synchonous Class
 ZCZC W03 15 L05 Studying for Week 03 Quiz 02
 ZCZC W03 15 L05 Quiz 02
+ZCZC W04 20 L14 Assignment 4 up to compiling TLPI
+ZCZC W04 100 L02 Tuesday Synchronous Zoom Meeting
