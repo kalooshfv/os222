@@ -38,3 +38,7 @@ ZCZC W03 15 L05 Studying for Week 03 Quiz 02
 ZCZC W03 15 L05 Quiz 02
 ZCZC W04 20 L14 Assignment 4 up to compiling TLPI
 ZCZC W04 100 L02 Tuesday Synchronous Zoom Meeting
+ZCZC W04 10 L14 Assignment 4 Rerun week04 scripts
+ZCZC W04 5 L44  Assignment 4 Rerun myscript.sh
+ZCZC W04 5 L41 Update mylog.txt
+ZCZC W04 10 L05 Study and do Quiz 2 Week 04
