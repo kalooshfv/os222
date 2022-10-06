@@ -42,3 +42,13 @@ ZCZC W04 10 L14 Assignment 4 Rerun week04 scripts
 ZCZC W04 5 L44  Assignment 4 Rerun myscript.sh
 ZCZC W04 5 L41 Update mylog.txt
 ZCZC W04 10 L05 Study and do Quiz 2 Week 04
+ZCZC W05 30 L15 Assignment 5 Start
+ZCZC W05 60 L00 GSGS about C language programming
+ZCZC W05 60 L15 Assignment 5
+ZCZC W05 15 L25 C language mymemory2.c
+ZCZC W05 30 L05 Studying for and doing Quiz 02
+ZCZC W05 100 L02 Synchronous Zoom Meeting
+ZCZC W05 100 L02 Synchronous session in A714
+ZCZC W05 15 L41 Updating mylog.txt
+ZCZC W05 15 L43 Updating myrank.txt
+ZCZC W05 5 L44 Running myscript for the first time in Week 05
