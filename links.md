@@ -31,4 +31,6 @@ Directory that directs to multiple other C tutorials. Includes installment, math
 Explains memory management in the scope of OS. Clarifies symbolic, relative, and physical addresses.
 12. OS Memory Management Part 1: https://www.youtube.com/watch?v=Ji-iHv96-uU <br>
 30-minute video that explains memory management in-depth. Broken into parts based on level of detail. <br>
+13. Paging System: https://www.geeksforgeeks.org/paging-in-operating-system/ <br>
+Explains the use case and definitions of an OS paging system.
 
