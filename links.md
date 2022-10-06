@@ -25,4 +25,10 @@ Relatively short yet detailed summary of file systems in general. Defines what a
 People's opinions on what is the best file system for general use. Satisfies curiosity. <br>
 9. File Systems Overview: https://kb.wisc.edu/helpdesk/page.php?id=11300 <br>
 Details about the properties of different file systems. Short and sweet bullet points.
+10. C Language Tutorial: https://www.javatpoint.com/c-programming-language-tutorial <br>
+Directory that directs to multiple other C tutorials. Includes installment, math, command arguments, and control statements.
+11. OS Memory Management: https://www.tutorialspoint.com/operating_system/os_memory_management.htm <br>
+Explains memory management in the scope of OS. Clarifies symbolic, relative, and physical addresses.
+12. OS Memory Management Part 1: https://www.youtube.com/watch?v=Ji-iHv96-uU <br>
+30-minute video that explains memory management in-depth. Broken into parts based on level of detail. <br>
 
