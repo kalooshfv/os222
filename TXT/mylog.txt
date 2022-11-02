@@ -52,3 +52,14 @@ ZCZC W05 100 L02 Synchronous session in A714
 ZCZC W05 15 L41 Updating mylog.txt
 ZCZC W05 15 L43 Updating myrank.txt
 ZCZC W05 5 L44 Running myscript for the first time in Week 05
+ZCZC W06 100 L02 Synchronous Zoom Meeting
+ZCZC W06 60 L05 Reading slides to prepare for first weekly quiz
+ZCZC W06 60 L05 Reading slides in general
+ZCZC W06 60 L16 Assignment 6 Start (Readings & Demos, though not all)
+ZCZC W06 10 L07 Reading demos
+ZCZC W06 20 L32 Researching YouTube for Pop Quiz
+ZCZC W06 10 L41 Updating myLog
+ZCZC W06 20 L05 Preparing for first weekly quiz again
+ZCZC W06 5 L05 Doing first weekly quiz
+ZCZC W06 150 L16 Assignment 6 Continue
+ZCZC W06 100 L02 Asynchronous Meeting
