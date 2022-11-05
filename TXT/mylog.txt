@@ -63,3 +63,7 @@ ZCZC W06 20 L05 Preparing for first weekly quiz again
 ZCZC W06 5 L05 Doing first weekly quiz
 ZCZC W06 150 L16 Assignment 6 Continue
 ZCZC W06 100 L02 Asynchronous Meeting
+ZCZC W06 20 L05 Preparing for Quiz 02
+ZCZC W06 5 L05 Doing second weekly quiz
+ZCZC W06 45 L05 Doing pop quiz
+ZCZC W06 60 L16 Assignment 6 Final
