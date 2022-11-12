@@ -27,4 +27,6 @@ Explains memory management in the scope of OS. Clarifies symbolic, relative, and
 Explains the use case and definitions of an OS paging system.
 10. Fork Process: https://www.geeksforgeeks.org/fork-system-call/ <br>
 Explains fork process on Linux, child and parent processes, with visualization.
+11. Introduction of Process Synchronization: https://www.geeksforgeeks.org/introduction-of-process-synchronization/ <br>
+Explains independent/cooperative processes, race conditions, critical sections, Peterson's solution and semaphores. Brief yet surface-level.
 
