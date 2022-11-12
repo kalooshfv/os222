@@ -67,3 +67,14 @@ ZCZC W06 20 L05 Preparing for Quiz 02
 ZCZC W06 5 L05 Doing second weekly quiz
 ZCZC W06 45 L05 Doing pop quiz
 ZCZC W06 60 L16 Assignment 6 Final
+ZCZC W07 100 L02 Synchronous Zoom Meeting
+ZCZC W07 45 L05 Scribing  slides to prepare for weekly quizzes
+ZCZC W07 5 L07 Reading demos directly from cbkadal clone repository
+ZCZC W07 5 L05 Doing first weekly quiz
+ZCZC W07 100 L02 Asynchronous Meeting
+ZCZC W07 60 L17 Assignment 7 Start up to Synchronization
+ZCZC W07 5 L05 Preparing for Quiz 02
+ZCZC W07 3 L05 Doing Quiz 02
+ZCZC W07 L17 Assignment 7 up to finishing and run script
+ZCZC W07 30 L27 Researching WinSCP for POP QUIZ
+ZCZC W07 45 L05 POP QUIZ WEEK07
