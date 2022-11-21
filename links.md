@@ -28,5 +28,7 @@ Explains the use case and definitions of an OS paging system.
 10. Fork Process: https://www.geeksforgeeks.org/fork-system-call/ <br>
 Explains fork process on Linux, child and parent processes, with visualization.
 11. Introduction of Process Synchronization: https://www.geeksforgeeks.org/introduction-of-process-synchronization/ <br>
-Explains independent/cooperative processes, race conditions, critical sections, Peterson's solution and semaphores. Brief yet surface-level.
+Explains independent/cooperative processes, race conditions, critical sections, Peterson's solution and semaphores. Brief yet surface-level. <br>
+12. 1: Preparing to build Linux From Scratch 11.2 - How to build LFS 11.2: https://www.youtube.com/watch?v=7ukLbyTTwGo <br>
+Is an alternative to the provided YouTube playlist in os.vlsm. Subsequent parts are equally well-written. <br>
 
