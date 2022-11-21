@@ -78,3 +78,14 @@ ZCZC W07 3 L05 Doing Quiz 02
 ZCZC W07 L17 Assignment 7 up to finishing and run script
 ZCZC W07 30 L27 Researching WinSCP for POP QUIZ
 ZCZC W07 45 L05 POP QUIZ WEEK07
+ZCZC W08 120 L18 Reading Chapter 1-5 of LFS Book
+ZCZC W08 60 L18 Doing chapter 2-3 of LFS
+ZCZC W08 45 L18 Doing chapter 4 of LFS
+ZCZC W08 60 L18 Rolling back to chapter 2-3 to do Pop Quiz
+ZCZC W08 15 L05 Preparing for both weekly quizzes
+ZCZC W08 5 L05 Doing first weekly quiz
+ZCZC W08 5 L05 Doing second weekly quiz
+ZCZC W08 45 L18 LFS Chapter 5
+ZCZC W08 30 L18 Consulting teaching assistant for advice on LFS
+ZCZC W08 45 L18 Finalizing LFS Chapter 1-5
+ZCZC W08 15 L05 Pop Quiz 1-4 for Week08
