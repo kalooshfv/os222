@@ -89,3 +89,15 @@ ZCZC W08 45 L18 LFS Chapter 5
 ZCZC W08 30 L18 Consulting teaching assistant for advice on LFS
 ZCZC W08 45 L18 Finalizing LFS Chapter 1-5
 ZCZC W08 15 L05 Pop Quiz 1-4 for Week08
+ZCZC W09 45 L19 Reading Chapter 6-7 of LFS Book
+ZCZC W09 100 L19 Watching Chapter 6 Video on LFS Youtube playlist
+ZCZC W09 10 L05 Studying for first weekly quiz
+ZCZC W09 5 L05 Doing first weekly quiz
+ZCZC W09 90 L19 Doing chapter6 of LFS Book
+ZCZC W09 50 L19 Assistance session with Kak Francis for Assignment
+ZCZC W09 30 L19 Finishing up chapter6
+ZCZC W09 45 L19 Doing chapter7 of LFS Book
+ZCZC W09 30 L19 Verifying correctness of LFS Chapter 6-7 with other students
+ZCZC W09 10 L41 Updating mylog
+ZCZC W09 5 L43 Updating myrank
+ZCZC W09 20 L61 Backup my VirtualBox
