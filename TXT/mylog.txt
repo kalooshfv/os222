@@ -101,3 +101,11 @@ ZCZC W09 30 L19 Verifying correctness of LFS Chapter 6-7 with other students
 ZCZC W09 10 L41 Updating mylog
 ZCZC W09 5 L43 Updating myrank
 ZCZC W09 20 L61 Backup my VirtualBox
+ZCZC W10 100 L02 Synchronous meeting
+ZCZC W10 600 L20 Chapter 8 Assignment up to GCC
+ZCZC W10 240 L20 Chapter 8 all packages
+ZCZC W10 10 L41 Updating mylog
+ZCZC W10 5 L42 Updating myrank
+ZCZC W10 5 L05 First weekly quiz
+ZCZC W10 5 L05 Second weekly quiz
+ZCZC W10 8 L44 Run myscript.sh
